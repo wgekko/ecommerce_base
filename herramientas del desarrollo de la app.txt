@@ -1,0 +1,7 @@
+app ecommerce 
+desarrollado con 
+Next.js 13
+MongoDB
+Firebase
+strapi
+tailwindCSS
